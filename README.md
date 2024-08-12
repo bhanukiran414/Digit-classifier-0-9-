@@ -31,8 +31,8 @@ To get a local copy up and running follow these simple steps.
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/bhanukiran414.git
+    cd Digit-classifier-0-9-
     ```
 
 2. **Install Dependencies**
